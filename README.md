@@ -24,3 +24,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 
 
 ![image](https://github.com/user-attachments/assets/13f81611-4eaa-4ca6-842b-caeb6e971457)
+
+# Filters
+![image](https://github.com/user-attachments/assets/05eccae7-fa8a-4aff-82b3-ea1b145363e2)
+
