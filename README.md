@@ -18,4 +18,9 @@ Display a summary of total sales, profits and quantity for the current year and 
 - Present weekly sales and profit data for the current year.
 - Display the average weekly values.
 - Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+
+
+![image](https://github.com/user-attachments/assets/006491b1-4066-4c18-9c3d-b5f8379e4b4e)
+
+
 ![image](https://github.com/user-attachments/assets/13f81611-4eaa-4ca6-842b-caeb6e971457)
