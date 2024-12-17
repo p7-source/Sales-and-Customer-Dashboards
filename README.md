@@ -1,5 +1,5 @@
 # Sales and Customers Dashboard, Tableau
-
+https://public.tableau.com/app/profile/durga.prasad.tekumudi/viz/SalesandCustomersDashboard_17305165237970/SalesDashboard
 # Intorduction
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
 # Sales Dashboard | Requirements
